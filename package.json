@@ -1,0 +1,12 @@
+{
+  "name": "web-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oleg_Novoselov(normar00@mail.ru)-git(wr479)",
+  "license": "ISC"
+}
